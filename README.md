@@ -1,1 +1,1 @@
-This is the user management.using java, sql, JDBC, JSP. 
+This is the user management System.Using Java, sql, JDBC, JSP. 
